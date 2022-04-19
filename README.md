@@ -1,4 +1,4 @@
-# sb-security
+# Spring Boot-security
 Readme: Spring Boot 2.6.6 with Spring Security
 An example of a RESTful WebServer developed using Spring & SpringBoot.
 

@@ -1,11 +1,12 @@
 spring:
   profiles:
     active: dev
-    
+
+
 management:
   endpoints:
     web:
       exposure.include: '*'
 springdoc:
   api-docs.path: /api-docs 
-  swagger-ui.path: /swagger-ui-custom.html
+  swagger-ui.path: /swagger-ui.html
