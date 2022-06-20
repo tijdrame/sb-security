@@ -1,0 +1,9 @@
+${AnsiColor.GREEN}██████╗  ██████╗  █████╗ ${AnsiColor.RED}███████╗██╗
+${AnsiColor.GREEN}██╔══██╗██╔═══██╗██╔══██╗${AnsiColor.RED}██╔════╝██║
+${AnsiColor.GREEN}██████╔╝██║   ██║███████║${AnsiColor.RED}███████╗██║
+${AnsiColor.GREEN}██╔══██╗██║   ██║██╔══██║${AnsiColor.RED}╚════██║██║
+${AnsiColor.GREEN}██████╔╝╚██████╔╝██║  ██║${AnsiColor.RED}███████║██║
+${AnsiColor.GREEN}╚═════╝  ╚═════╝ ╚═╝  ╚═╝${AnsiColor.RED}╚══════╝╚═╝
+
+${AnsiColor.BRIGHT_BLUE}:: BOA Services 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://bank-of-africa.net/ ::${AnsiColor.DEFAULT}
